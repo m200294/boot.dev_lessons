@@ -33,7 +33,8 @@ Every list comprehension follows the same pattern:
 [expression for item in iterable]
 ```
 
-![list comprehension breakdown](IMG_0042.PNG)
+<img width="6360" height="4768" alt="IMG_0042" src="https://github.com/user-attachments/assets/3eeae038-8fb2-4be7-a7aa-296b33d8ef39" />
+
 
 Mapping that onto `[x for x in range(1, 11)]`:
 
