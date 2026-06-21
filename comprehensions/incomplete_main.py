@@ -1,0 +1,3 @@
+def comprehension(int):
+    ...
+    return
