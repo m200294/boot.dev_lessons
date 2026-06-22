@@ -1,4 +1,4 @@
-# enumerate
+# Enumerate
 
 The enumerate function takes any iterable (e.g. list, tuple, dict) and lets you loop over it as (index, item) pairs.
 
