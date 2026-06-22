@@ -1,3 +1,3 @@
-def comprehension(int):
-    numbers = [x for x in range(0, int + 1)]
+def comprehension(n):
+    numbers = [x for x in range(0, n + 1)]
     return numbers

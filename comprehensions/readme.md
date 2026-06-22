@@ -43,4 +43,4 @@ Mapping that onto `[x for x in range(1, 11)]`:
 - `range(1, 11)` is the iterable itself
 
 ## Assignment
-Complete the `comprehension` function. Using a list comprehension, return a list of the numbers from 0 up to and including `int`.
+Complete the `comprehension` function. Using a list comprehension, return a list of the numbers from 0 up to and including `n`.
