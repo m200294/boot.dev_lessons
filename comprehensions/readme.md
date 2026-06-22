@@ -1,4 +1,4 @@
-# comprehensions
+# Comprehensions
 
 In Python, a comprehension is a one-line way to build a new collection from an iterable. 
 
